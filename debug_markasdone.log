@@ -1,0 +1,259 @@
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 2
+    [input] => {"lesson_id":"8","course_id":9}
+)
+Array
+(
+    [user_id] => 3
+    [input] => {"lesson_id":"8","course_id":"9"}
+)
+Array
+(
+    [user_id] => 3
+    [input] => {"lesson_id":"11","course_id":"9"}
+)
+Array
+(
+    [user_id] => 3
+    [input] => {"lesson_id":"11","course_id":"9"}
+)
+Array
+(
+    [user_id] => 3
+    [input] => {"lesson_id":"11","course_id":9}
+)
+Array
+(
+    [user_id] => 3
+    [input] => {"lesson_id":"12","course_id":9}
+)
+Array
+(
+    [user_id] => 4
+    [input] => {"lesson_id":"9","course_id":8}
+)
+Array
+(
+    [user_id] => 4
+    [input] => {"lesson_id":"13","course_id":8}
+)
+Array
+(
+    [user_id] => 4
+    [input] => {"lesson_id":"13","course_id":8}
+)
+Array
+(
+    [user_id] => 4
+    [input] => {"lesson_id":"13","course_id":8}
+)
+Array
+(
+    [user_id] => 4
+    [input] => {"lesson_id":"13","course_id":8}
+)
+Array
+(
+    [timestamp] => 2025-05-16 22:11:25
+    [user_id] => 4
+    [input] => {"lesson_id":"13","course_id":8}
+)
+Array
+(
+    [timestamp] => 2025-05-16 22:11:56
+    [user_id] => 4
+    [input] => {"lesson_id":"14","course_id":8}
+)
+Array
+(
+    [timestamp] => 2025-05-16 22:16:04
+    [user_id] => 3
+    [input] => {"lesson_id":"15","course_id":10}
+)
+Array
+(
+    [timestamp] => 2025-05-16 22:16:24
+    [user_id] => 3
+    [input] => {"lesson_id":"16","course_id":10}
+)
+Array
+(
+    [timestamp] => 2025-05-16 22:30:09
+    [user_id] => 3
+    [input] => {"lesson_id":"17","course_id":13}
+)
+Array
+(
+    [timestamp] => 2025-05-16 22:35:28
+    [user_id] => 3
+    [input] => {"lesson_id":"19","course_id":14}
+)
+Array
+(
+    [timestamp] => 2025-05-19 08:43:30
+    [user_id] => 4
+    [input] => {"lesson_id":"20","course_id":15}
+)
+Array
+(
+    [timestamp] => 2025-05-19 08:43:44
+    [user_id] => 4
+    [input] => {"lesson_id":"21","course_id":15}
+)
+Array
+(
+    [timestamp] => 2025-06-03 13:01:27
+    [user_id] => 4
+    [input] => {"lesson_id":"22","course_id":15}
+)
