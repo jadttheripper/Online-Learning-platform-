@@ -7,44 +7,70 @@ A Modern, Interactive Learning Hub Where Users Can Learn & Teach Skills in Real-
 
 
 🔥 Key Features
+
 ✔ User Accounts – Secure login/signup with profile editing.
+
 ✔ Skill Search & Filters – Find Skills by  category.
+
 ✔ Teach & Learn – Users can add/remove skills and create/edit courses for the skills.
+
 ✔ Real-Time Chat – Instant messaging with translation support (powered by APIs).
+
 ✔ Course Progress Tracking – Monitor learning milestones.
+
 ✔ Reviews & Ratings – Rate the overall website.
+
 ✔ Community Engagement – Post, like, and discuss in the community section.
+
 ✔ Wishlist/Favorites – Save courses for later.
+
 ✔ Admin & User Password Reset – Secure account recovery.
+
 ✔ Skill Recommendations – Personalized suggestions based on interests.
+
 ✔ Delete and report User  – for moderation purposes.
 
+
 🛠 Tech Stack
+
 Frontend: HTML, CSS, JavaScript,Alpine Js,Bootstrap, Tailwind CSS
+
 
 Backend: PHP, MySQL(Maria DB) 
 
+
 Real-Time Chat: AJAX 
+
 
 Optional Translation: Google Translate API 
 
+
 Server: XAMPP (Apache, MySQL, PHP)
 
+
 i already hosted the project online for you to immediately test it from your phone even! the link is in the About section of this repo. But in case you wanna run it locally, here are a set of instructions: 
+
 🚀 How to Run This Project Locally
+
 Prerequisites
+
 XAMPP (or WAMP/MAMP) 
+
+
 
 Git – Install Git
 
+
 Web Browser (Chrome/Firefox recommended)
 
+
 Setup Instructions
+
 1. Clone the Repository
 bash
 git clone https://github.com/jadttheripper/Online-Learning-Platform.git
 cd Online-Learning-Platform
-2. Set Up XAMPP
+3. Set Up XAMPP
 Move the cloned folder to htdocs (XAMPP) or www (WAMP).
 
 Example path:
