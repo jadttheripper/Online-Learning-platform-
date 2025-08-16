@@ -100,9 +100,12 @@ Open browser → Visit:
 text
 http://localhost/SkillSwap
 6. User test: SkillSwap/index.php
+
 Admin test: SkillSwap/Admin/panel.php
 
-📸 Screenshots 
+
+
+📸 Screenshots from the application 
 <img width="1344" height="652" alt="home1" src="https://github.com/user-attachments/assets/341f50c1-0d11-4e3a-9f0a-b53bb19f3b56" />  <img width="1348" height="641" alt="loginpage" src="https://github.com/user-attachments/assets/3aa8ffc5-96d4-4bc1-970a-00e1627a414a" /> <img width="703" height="645" alt="addskill" src="https://github.com/user-attachments/assets/a5e18053-dbba-4829-b8a7-6f89133e58be" /> <img width="500" height="623" alt="addskill1" src="https://github.com/user-attachments/assets/d46424c0-63fb-4194-924d-c0def828ac6f" /> <img width="466" height="618" alt="dashboard3" src="https://github.com/user-attachments/assets/33b198f7-95d8-4221-bd84-9543d06c8d1c" />
  <img width="1304" height="649" alt="search1" src="https://github.com/user-attachments/assets/52b53d8c-5a7c-4c21-a852-1b2a699e3404" /> <img width="1290" height="648" alt="messaging1" src="https://github.com/user-attachments/assets/c6346666-0ccc-402c-95ef-5ec3c6b75db0" /> 
 <img width="795" height="593" alt="sendcourse" src="https://github.com/user-attachments/assets/835d6713-fd20-4064-902a-0447400d5d70" />
