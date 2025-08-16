@@ -1,7 +1,10 @@
 🌟 Online Learning Platform (SkillSwap) 🌟
+
 A Modern, Interactive Learning Hub Where Users Can Learn & Teach Skills in Real-Time!
 
+
 🚀 Discover, Teach, and Track Progress – A full-stack PHP-based platform with real-time messaging, course sharing, progress tracking, and a thriving learning community.
+
 
 🔥 Key Features
 ✔ User Accounts – Secure login/signup with profile editing.
