@@ -14,7 +14,7 @@ if (empty($text)) {
 }
 
 // Google Cloud Translate API key
-$apiKey = 'AIzaSyCVGjCOjWfwblpmM9rCZcfKgNZ5wOPSzRc'; //
+$apiKey = 'my api key expired so use your own api key'; //
 
 // Prepare the request payload
 $requestData = [
